@@ -1,0 +1,12 @@
+node_modules
+
+build
+
+.cache
+*.log
+
+Dockerfile
+.dockerignore
+
+.DS_Store
+Thumbs.db
